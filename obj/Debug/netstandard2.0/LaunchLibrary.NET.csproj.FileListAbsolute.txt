@@ -1,0 +1,9 @@
+/Users/nick/Documents/GitHub/LaunchLibrary.NET/obj/Debug/netstandard2.0/LaunchLibrary.NET.csprojAssemblyReference.cache
+/Users/nick/Documents/GitHub/LaunchLibrary.NET/obj/Debug/netstandard2.0/LaunchLibrary.NET.csproj.CoreCompileInputs.cache
+/Users/nick/Documents/GitHub/LaunchLibrary.NET/obj/Debug/netstandard2.0/LaunchLibrary.NET.AssemblyInfoInputs.cache
+/Users/nick/Documents/GitHub/LaunchLibrary.NET/obj/Debug/netstandard2.0/LaunchLibrary.NET.AssemblyInfo.cs
+/Users/nick/Documents/GitHub/LaunchLibrary.NET/bin/Debug/netstandard2.0/LaunchLibrary.NET.deps.json
+/Users/nick/Documents/GitHub/LaunchLibrary.NET/bin/Debug/netstandard2.0/LaunchLibrary.NET.dll
+/Users/nick/Documents/GitHub/LaunchLibrary.NET/bin/Debug/netstandard2.0/LaunchLibrary.NET.pdb
+/Users/nick/Documents/GitHub/LaunchLibrary.NET/obj/Debug/netstandard2.0/LaunchLibrary.NET.dll
+/Users/nick/Documents/GitHub/LaunchLibrary.NET/obj/Debug/netstandard2.0/LaunchLibrary.NET.pdb
